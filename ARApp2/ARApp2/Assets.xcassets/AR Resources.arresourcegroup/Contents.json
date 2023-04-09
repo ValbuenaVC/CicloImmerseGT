@@ -1,0 +1,17 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "glass.arreferenceimage"
+    },
+    {
+      "filename" : "metal.arreferenceimage"
+    },
+    {
+      "filename" : "paper.arreferenceimage"
+    }
+  ]
+}

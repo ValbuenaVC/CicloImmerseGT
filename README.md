@@ -2,7 +2,9 @@
 Recycling made profitable, supply-chain resilient, scalable, and sustainable. An AR application in SwiftUI providing real-time video classification of recyclables for use in office and industry.
 
 Unending thanks to the online communities for SwiftUI and ARKit development without whose documentation and tutorials this would not have been possible with.
-------------------------------------------------------------------
+
+
+
 
 Copyright 2023 Victor Valbuena
 
